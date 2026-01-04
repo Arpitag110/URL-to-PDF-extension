@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "URL to PDF Converter",
+  "description": "Convert current webpage into a clean PDF",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
