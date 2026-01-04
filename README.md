@@ -30,9 +30,13 @@ This project is built as a beginner-friendly learning project using JavaScript a
 url-to-pdf-extension/
 │
 ├── manifest.json # Extension configuration
+
 ├── popup.html # Popup UI
+
 ├── popup.js # Popup logic
+
 ├── content.css # Print-specific styles
+
 └── README.md
 
 ---
@@ -77,9 +81,3 @@ chrome://extensions
 - Injecting scripts and styles into webpages
 - Handling browser limitations gracefully
 - Improving UX with loading states
-
----
-
-## 📄 License
-
-This project is created for educational purposes.
