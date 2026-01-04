@@ -29,6 +29,7 @@ This project is built as a beginner-friendly learning project using JavaScript a
 
 url-to-pdf-extension/
 │
+
 ├── manifest.json # Extension configuration
 
 ├── popup.html # Popup UI
